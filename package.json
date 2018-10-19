@@ -1,0 +1,22 @@
+{
+  "name": "spaceapps.capella.astapp",
+  "version": "1.0.0",
+  "description": "Animal Sickness Transmission",
+  "main": "index.js",
+  "scripts": {
+    "test": "-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JEAROM9416/SpaceApps.Capella.ASTApp.git"
+  },
+  "keywords": [
+    "AST"
+  ],
+  "author": "CapellaTeamGroup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JEAROM9416/SpaceApps.Capella.ASTApp/issues"
+  },
+  "homepage": "https://github.com/JEAROM9416/SpaceApps.Capella.ASTApp#readme"
+}
