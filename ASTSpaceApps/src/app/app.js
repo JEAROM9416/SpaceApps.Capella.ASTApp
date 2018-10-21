@@ -1,6 +1,7 @@
 /** AIzaSyAW8pQBqAxchOUPXkt41Yvi2RGZE6rF2Hs  */
 
 /** GEOLOCATION API */
+const natGeoKey = '3a03e0800e99420783f38f0556fc65ee'
 const googlekey = 'AIzaSyAW8pQBqAxchOUPXkt41Yvi2RGZE6rF2Hs'
 const request = require('request');
 /*
