@@ -1,0 +1,7 @@
+{
+  "name": "osm",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
