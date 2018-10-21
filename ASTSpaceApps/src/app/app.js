@@ -25,8 +25,7 @@ function getPlace(longitud, latitude) {
         url: 'https://maps.googleapis.com/maps/api/geocode/json?latlng='+longitud+','+latitude+'&key='+googlekey,
         json: true
     }, (error, response, body) => {
-        console.log(JSON.stringify(body,undefined,3));
+        console.log(JSON.stringify(body,undefined,2));
     });
 }
-
 getPlace(40.714224,-73.961452);
