@@ -15,7 +15,7 @@ function getPlaceByLanLat(longitud, latitude) {
     });
 }
 
-//getPlaceByLanLat(40.714224,-73.961452);
+getPlaceByLanLat(40.714224,-73.961452);
 
 function getPlaceByName(placename) {
     request({
@@ -26,4 +26,4 @@ function getPlaceByName(placename) {
     });
 }
 
-getPlaceByName('Tecnológico de Costa Rica')
+//getPlaceByName('Tecnológico de Costa Rica')
